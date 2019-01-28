@@ -1,0 +1,22 @@
+.clearfix {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.p7 {
+    padding-top: 7rem;
+}
+
+.p10 {
+    padding-top: 10rem;
+}
+
+.bg-hover-color {
+    background-color: $hover-color;
+}
+
+.bg-gray {
+    background-color: $gray-color;
+    color: $black;
+}
